@@ -1,0 +1,54 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+:root {
+  --primary-color: #00d4aa;
+  --text-primary: #2c3e50;
+  --border-radius: 12px;
+  --shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.stApp {
+  background: #031228;
+}
+
+.main-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+}
+
+h1, h2, h3 {
+  color: var(--text-primary);
+}
+
+/* Slider value style */
+.css-1cpxqw2 {
+  color: var(--primary-color) !important;
+  font-weight: 600;
+}
+
+/* Success message customization */
+.css-1cpxqw2 + .css-1r6slb0 {
+  background-color: #dffaf3 !important;
+  color: var(--text-primary) !important;
+  border-left: 5px solid var(--primary-color) !important;
+}
+
+/* Responsive padding */
+@media (max-width: 768px) {
+  .main-container {
+    padding: 1.5rem;
+    margin: 1rem;
+  }
+}
