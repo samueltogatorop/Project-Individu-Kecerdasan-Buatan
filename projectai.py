@@ -1,7 +1,7 @@
 from sklearn.tree import DecisionTreeClassifier
 
 # Data latih: [suhu, aktivitas, sudah_minum, durasi_terakhir_minum]
-# Label: 0=Sudah cukup, 1=minum sebentar lagi, 2=Minum sekarang!
+# Label: 0=Sudah cukup, 1=Minum sebentar lagi, 2=Minum sekarang!
 data = [
     [22, 0, 1, 10],  # Suhu dingin, rebahan, sudah minum, baru saja => cukup
     [30, 2, 1, 60],  # Panas, olahraga, sudah minum tapi lama => minum
