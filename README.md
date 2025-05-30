@@ -1,4 +1,8 @@
 ## Prediksi Waktu Pengisian Baterai
+
+![{080A1B05-C390-4539-A6F5-B7C01E27A169}](https://github.com/user-attachments/assets/99477674-fcbd-46ac-8001-daaa6246a2fb)
+
+
 Nama  : Samuel Viktorio Togatorop
 
 NIM   : 23050974075
