@@ -1,6 +1,7 @@
 ## Prediksi Waktu Pengisian Baterai
 
-![{B2C62489-979A-4DF6-9317-80178DC278B9}](https://github.com/user-attachments/assets/1bf9ef8f-a70c-43c6-8a61-ab81c720d7f4)
+![{CF281C46-F216-4C3F-A608-B8E884534BDC}](https://github.com/user-attachments/assets/49ebe700-5d28-4739-b799-2af591ac2ac4)
+
 
 Nama  : Samuel Viktorio Togatorop
 
